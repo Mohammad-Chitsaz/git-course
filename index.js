@@ -8,4 +8,4 @@ export default Hi;
 
 console.log("Hello I'm Mohammad");
 console.log("Hello I'm Mohammad");
-console.log("Hello");
+alert("Hi My friends!")
